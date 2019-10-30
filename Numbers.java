@@ -3,8 +3,8 @@ package com.aanchal.entities;
 
 public class Numbers {
 	
-	private int firstNumber1;
-	private int secondNumber1;
+	private int firstNumber2;
+	private int secondNumber2;
 	
 	public Numbers() {
 		
